@@ -1,4 +1,4 @@
-# Cronagrama de atividades do servidor dev.all()
+# Cronograma de atividades do servidor dev.all()
 ____
 ## Atividades
 - Fundamentos Flask - Antônio Ricart - 24/05/2020
